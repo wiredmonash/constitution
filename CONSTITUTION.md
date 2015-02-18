@@ -31,10 +31,11 @@
 ### 1. Name
 
 1.  The name of the club shall be “Faculty of Information Technology (FITS)”.
+
 2.  The trading name of the club shall be
       “Wired”
 
-## 2. Aims and Objectives
+### 2. Aims and Objectives
 
 1.  The aims and objectives of the club shall be to
 
@@ -80,6 +81,7 @@
 1.  On request, the Secretary shall make available to any club member a list of all club members, containing only each member’s name and membership type, and, where applicable, the last 3 digits of the each member’s University student or staff number.
 
 2.  The Secretary shall ensure that the C&S Executive has an up-to-date copy of all club membership records at all times.
+
 3.  Except as prescribed in §3.6.1 - §3.6.2, the Secretary shall ensure that all membership records are kept strictly confidential, and that out-of-date membership records are destroyed.
 
 ##  PART 4. The Committee
@@ -96,7 +98,7 @@
     4. Secretary; and
     5. 3 Members Without Portfolios.
 
-3. The duties of the President shall be to
+3.  The duties of the President shall be to
 
     1. preside as chair over committee meetings and General Meetings;
     2. attend meetings of the Clubs & Societies Council, vote in the interests of the club, and report outcomes to the committee;
@@ -105,7 +107,7 @@
     5. submit reports to committee meetings, as appropriate; and
     6. submit an annual report to the AGM.
 
-4. The duties of the Vice President shall be to
+4.  The duties of the Vice President shall be to
 
     1. attend committee meetings and General Meetings;
     2. preside as chair over committee meetings and General Meetings, in the absence of the President;
@@ -113,7 +115,7 @@
     4. perform the duties of the President if that office is vacant; and
     5. perform other duties, as the committee may resolve.
 
-5. The duties of the Treasurer shall be to
+5.  The duties of the Treasurer shall be to
 
     1. attend committee meetings and General Meetings;
     2. keep the club’s financial books in order, in accordance with the requirements of the Clubs & Societies Council;
@@ -123,7 +125,7 @@
     6. submit a financial report to the AGM; and
     7. liaise with the Clubs & Societies Council on any financial requirements.
 
-6. The duties of the Secretary shall be to
+6.  The duties of the Secretary shall be to
 
     1. attend committee meetings and General Meetings;
     2. prepare agendas and minutes, and serve notice as prescribed, for General Meetings and committee meetings;
@@ -276,7 +278,6 @@
 5.  If, within 20 minutes after the scheduled start of a General Meeting, a quorum is not achieved, the meeting shall
 
     1. proceed as a committee of the whole, which must report its resolutions to the next quorate General Meeting for ratification before they take effect; or
-
     2. if the chair so rules, stand adjourned to a place, time and day (at least 7 and at most 14 days later) specified by the chair at the time of adjournment.
 
 ## PART 6. Assets
