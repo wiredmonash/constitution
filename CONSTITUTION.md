@@ -18,6 +18,7 @@
     8. “MSA” means Monash Student Association (Clayton), Inc. (A.B.N. 20 147 061 074);
     9. “OGM” means an Ordinary General Meeting; and
     10. “public notice” means an electronic notice displayed on the C&S world wide web site.
+    11. "Student" means a person enrolled in a course of study administered at the Clayton campus of the University;
 
 ### 2. Amendments
 
@@ -30,10 +31,10 @@
 
 ### 1. Name
 
-1.  The name of the club shall be “Faculty of Information Technology (FITS)”.
+1.  The name of the club shall be “Faculty of Information Technology Society (FITS)”.
 
 2.  The trading name of the club shall be
-      “Wired”
+      “Wired Monash”
 
 ### 2. Aims and Objectives
 
@@ -44,11 +45,15 @@
     3. Provide communication and support between IT faculty and students; and
     4. Provide support, information, knowledge and opportunity for students interested in the IT field. (To extend IT knowledge from sciences to a social atmosphere as well).
 
+### 3. Not for Profit Status
+
+1.  The assets and income of the club shall be applied solely in furtherance of its abovementioned aims and objectives and no portion shall be distributed directly or indirectly to members except as bonafide compensation for services rendered or expenses incurred on behalf of the club.
+
 ##  PART 3: MEMBERS
 
 ### 1. Duration and Cost of Membership
 
-1.  The annual membership fee for the club, if any, shall be set by the committee.
+1.  The annual membership fee for the club, if any, shall be set by the committee and subject to differential pricing outlined in the C&S Finance Regulations.
 
 2.  A person’s membership of the club shall run from the payment of the membership fee, or if there is no fee, from approval of the membership, until 20 March of the following year, or until the person ceases to be eligible, whichever occurs earlier.
 
@@ -88,15 +93,18 @@
 
 ### 1. Office Bearers
 
-1.  The club committee shall consist of 7 club office bearers
+1.  The club committee shall consist of 10 club office bearers
 
 2.  The club office bearers shall be the
 
     1. President;
     2. Vice President;
     3. Treasurer;
-    4. Secretary; and
-    5. 3 Members Without Portfolios.
+    4. Secretary;
+    5. Industry Officer;
+    6. Education Officer;
+    7. Activities Officer; and
+    8. 3 General Representatives.
 
 3.  The duties of the President shall be to
 
@@ -104,16 +112,20 @@
     2. attend meetings of the Clubs & Societies Council, vote in the interests of the club, and report outcomes to the committee;
     3. co-ordinate the activities of the committee;
     4. represent the club, and act as its spokesperson, to the Clubs & Societies Council, MSA, the University and other bodies, as appropriate;
-    5. submit reports to committee meetings, as appropriate; and
-    6. submit an annual report to the AGM.
+    5. submit reports to committee meetings, as appropriate;
+    6. submit an annual report to the AGM; and
+    7. provide a comprehensive handover, including a detailed operational report, at the end of term for the next position holder.
 
 4.  The duties of the Vice President shall be to
 
     1. attend committee meetings and General Meetings;
     2. preside as chair over committee meetings and General Meetings, in the absence of the President;
     3. assist the President in her/his duties;
-    4. perform the duties of the President if that office is vacant; and
-    5. perform other duties, as the committee may resolve.
+    4. hold the diversity portfolio, that is to act as the voice of equal opportunity and diversity on all decisions and at all club events;
+    5. liaise with the Engineering and IT faculties, similar student groups, and the greater IT industry to promote diversity to members and the wider student body;
+    6. perform the duties of the President if that office is vacant;
+    7. perform other duties, as the committee may resolve; and
+    8. provide a comprehensive handover, including a detailed operational report, at the end of term for the next position holder.
 
 5.  The duties of the Treasurer shall be to
 
@@ -122,8 +134,9 @@
     3. prepare a club budget, at least annually;
     4. collect and bank all income in the club’s bank account;
     5. prepare the club’s financial books for audit, semi-annually;
-    6. submit a financial report to the AGM; and
-    7. liaise with the Clubs & Societies Council on any financial requirements.
+    6. submit a financial report to the AGM;
+    7. liaise with the Clubs & Societies Council on any financial requirements; and
+    8. provide a comprehensive handover, including a detailed operational report, at the end of term for the next position holder.
 
 6.  The duties of the Secretary shall be to
 
@@ -132,15 +145,47 @@
     3. act as Returning Officer for club elections, as appropriate;
     4. ensure that an up-to-date membership register is maintained;
     5. regularly check the club’s mail box and electronic mail account, supplied by the Clubs & Societies Council, for incoming correspondence;
-    6. ensure that inwards and outwards correspondence for the club is handled correctly and in a timely manner; and
-    7. submit an annual report to the AGM.
+    6. maintain the club's social media accounts and website;
+    7. ensure that inwards and outwards correspondence for the club is handled correctly and in a timely manner;
+    8. submit an annual report to the AGM;
+    9. provide a comprehensive handover, including a detailed operational report, at the end of term for the next position holder.
 
-7.  The duties of the Members Without Portfolio shall be to perform such duties as the committee may resolve.
+7.  The duties of the Industry Officer shall be to
 
-8.  A person shall be eligible to be a club office bearer, or be elected a club office bearer, if s/he is
+    1. attend committee meetings and General Meetings;
+    2. organise sponsorship for the club and events, and ensure all sponsorship activities are met;
+    3. connect the club and students with the IT industry and professional bodies;
+    4. liaise with the Activities Officer with the organisation of industry events;
+    5. provide a comprehensive handover, including a detailed operational report, at the end of term for the next position holder; and
+    6. perform other duties, as the committee may resolve.
+
+8.  The duties of the Education Officer shall be to
+
+    1. attend committee meetings and General Meetings;
+    2. liaise, collaborate and maintain contact with staff of the Engineering and IT faculties;
+    3. create, organise and promote opportunities for members across all faculties to learn or gain knowledge;
+    4. provide a comprehensive handover, including a detailed operational report, at the end of term for the next position holder; and
+    5. perform other duties, as the committee may resolve.
+
+9.  The duties of the Activities Officer shall be to
+
+    1. attend committee meetings and General Meetings;
+    2. organise the club’s BBQs;
+    3. develop and organise club events;
+    4. liaise with the Industry Officer with the organisation of industry events;
+    5. provide a comprehensive handover, including a detailed operational report, at the end of term for the next position holder; and
+    6. perform other duties, as the committee may resolve.
+
+10.  The duties of the General Representative shall be to perform such duties as the committee may resolve.
+
+11.  A person shall be eligible to be a club office bearer, or be elected a club office bearer, if s/he is
 
     1. an ordinary member of at least 5 days standing; and
     2. a student.
+
+12.  The President, Vice President, Treasurer and Secretary are the only office bearers that may be signatories to any bank account held in the Club's name.
+
+13.  The President, Vice President, Treasurer and Secretary must book in and attend their respective training workshop offered by Clubs & Societies.
 
 ### 2. Election and Terms in Office
 
@@ -164,7 +209,7 @@
 
 7.  The committee shall be elected by plurality (“First Past The Post”) vote at a secret ballot, except where there are only 2 candidates for a position, in which case the club may resolve to vote by a show of hands.
 
-8.  The annual election for all committee positions shall be held at the AGM.
+8.  The annual election for all committee positions shall be held at the AGM, unless the C&S Executive resolves otherwise.
 
 9.  A by-election for a position shall be held at an OGM or EGM if the person most recently elected to that position
 
@@ -227,7 +272,42 @@
     1. proceed as a committee of the whole, which must report its resolutions to the next quorate committee meeting for ratification before they take effect; or
     2. if the chair so rules, stand adjourned to a place, time and day (at most 14 days later) specified by the chair at the time of adjournment.
 
-## PART 5. General Meetings
+## PART 5. Subcommittees
+
+### 1. Establishing and Dissolving
+
+1.  The committee may establish and dissolve subcommittees at any time through a motion.
+
+2.  All sections of the constitution shall be binding on subcommittees.
+
+3.  All subcommittees must act within its Terms of Reference, which outlines its responsibilities and expectations.
+
+4.  The committee may delegate any of its powers to a subcommittee as it sees fit, with the exception of:
+
+    1. this power of delegation;
+    2. the power to enter into or sign contracts and agreements;
+    3. the power to establish and dissolve subcommittees; and
+    4. the power to authorise spending.
+
+### 2. Relationship with the Committee
+
+1.  A subcommittee will be answerable to a member of the committee, who will act as the “chairperson” of the subcommittee.
+
+2.  A subcommittee must have any spending authorised by the committee, and have all finances open for inspection for the club’s Treasurer.
+
+3.  The committee can veto any decision made by a subcommittee.
+
+## 3. Composition
+
+1.  Members of subcommittee can be either an ordinary or an associate member of the club.
+
+2.  The committee can decide whether membership of a subcommittee is:
+
+    1. selected by the committee;
+    2. elected by ordinary and associate members; or
+    3. open to all ordinary and associate members to join.
+
+## PART 6. General Meetings
 
 ### 1. Notice and Agendas
 
@@ -257,7 +337,7 @@
     3. if the club resolves to call one; or
     4. if one must be called to hold a by-election.
 
-2. Where an EGM is not called as prescribed in §5.4.1, the C&S Executive may call one.
+2. Where an EGM is not called as prescribed in §6.4.1, the C&S Executive may call one.
 
 ### 5. Conduct of General Meetings
 
@@ -280,7 +360,7 @@
     1. proceed as a committee of the whole, which must report its resolutions to the next quorate General Meeting for ratification before they take effect; or
     2. if the chair so rules, stand adjourned to a place, time and day (at least 7 and at most 14 days later) specified by the chair at the time of adjournment.
 
-## PART 6. Assets
+## PART 7. Assets
 
 ### 1. Clubs & Societies Council
 
