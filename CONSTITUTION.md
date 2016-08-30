@@ -93,7 +93,7 @@
 
 ### 1. Office Bearers
 
-1.  The club committee shall consist of 10 club office bearers
+1.  The club committee shall consist of 12 club office bearers
 
 2.  The club office bearers shall be the
 
@@ -102,8 +102,8 @@
     3. Treasurer;
     4. Secretary;
     5. Industry Officer;
-    6. Education Officer;
-    7. Activities Officer; and
+    6. Marketing Officer;
+    7. 3 Activities Officer; and
     8. 3 General Representatives.
 
 3.  The duties of the President shall be to
@@ -111,10 +111,11 @@
     1. preside as chair over committee meetings and General Meetings;
     2. attend meetings of the Clubs & Societies Council, vote in the interests of the club, and report outcomes to the committee;
     3. co-ordinate the activities of the committee;
-    4. represent the club, and act as its spokesperson, to the Clubs & Societies Council, MSA, the University and other bodies, as appropriate;
-    5. submit reports to committee meetings, as appropriate;
-    6. submit an annual report to the AGM; and
-    7. provide a comprehensive handover, including a detailed operational report, at the end of term for the next position holder.
+    4. strategize future plans and direct the committee, as the team leader;
+    5. represent the club, and act as its spokesperson, to the Clubs & Societies Council, MSA, the University and other bodies, as appropriate;
+    6. submit reports to committee meetings, as appropriate;
+    7. submit an annual report to the AGM; and
+    8. provide a comprehensive handover, including a detailed operational report, at the end of term for the next position holder.
 
 4.  The duties of the Vice President shall be to
 
@@ -122,10 +123,11 @@
     2. preside as chair over committee meetings and General Meetings, in the absence of the President;
     3. assist the President in her/his duties;
     4. hold the diversity portfolio, that is to act as the voice of equal opportunity and diversity on all decisions and at all club events;
-    5. liaise with the Engineering and IT faculties, similar student groups, and the greater IT industry to promote diversity to members and the wider student body;
-    6. perform the duties of the President if that office is vacant;
-    7. perform other duties, as the committee may resolve; and
-    8. provide a comprehensive handover, including a detailed operational report, at the end of term for the next position holder.
+    5. liaise, collaborate and maintain contact with staff of the Engineering and IT faculties;
+    6. liase, collaborate and maintain contact with similar student groups, and the greater IT industry to promote diversity to members and the wider student body;
+    7. perform the duties of the President if that office is vacant;
+    8. perform other duties, as the committee may resolve; and
+    9. provide a comprehensive handover, including a detailed operational report, at the end of term for the next position holder.
 
 5.  The duties of the Treasurer shall be to
 
@@ -145,7 +147,7 @@
     3. act as Returning Officer for club elections, as appropriate;
     4. ensure that an up-to-date membership register is maintained;
     5. regularly check the club’s mail box and electronic mail account, supplied by the Clubs & Societies Council, for incoming correspondence;
-    6. maintain the club's social media accounts and website;
+    6. maintain the club's social media account inbox, and website;
     7. ensure that inwards and outwards correspondence for the club is handled correctly and in a timely manner;
     8. submit an annual report to the AGM;
     9. provide a comprehensive handover, including a detailed operational report, at the end of term for the next position holder.
@@ -153,28 +155,27 @@
 7.  The duties of the Industry Officer shall be to
 
     1. attend committee meetings and General Meetings;
-    2. organise sponsorship for the club and events, and ensure all sponsorship activities are met;
+    2. organise sponsorship for the club and events using C&S templates, and ensure all sponsorship activities are met;
     3. connect the club and students with the IT industry and professional bodies;
-    4. liaise with the Activities Officer with the organisation of industry events;
+    4. liaise with the Activities Officer, and other relevant committee members with the organisation of industry-related events;
     5. provide a comprehensive handover, including a detailed operational report, at the end of term for the next position holder; and
     6. perform other duties, as the committee may resolve.
 
-8.  The duties of the Education Officer shall be to
+8.  The duties of the Marketing Officer shall be to
 
     1. attend committee meetings and General Meetings;
-    2. liaise, collaborate and maintain contact with staff of the Engineering and IT faculties;
-    3. create, organise and promote opportunities for members across all faculties to learn or gain knowledge;
+    2. design and manage marketing and promotional material for the club’s events and activities;
+    3. manage the social media accounts of the club;
     4. provide a comprehensive handover, including a detailed operational report, at the end of term for the next position holder; and
     5. perform other duties, as the committee may resolve.
 
 9.  The duties of the Activities Officer shall be to
 
     1. attend committee meetings and General Meetings;
-    2. organise the club’s BBQs;
-    3. develop and organise club events;
-    4. liaise with the Industry Officer with the organisation of industry events;
-    5. provide a comprehensive handover, including a detailed operational report, at the end of term for the next position holder; and
-    6. perform other duties, as the committee may resolve.
+    2. organise and implement club events and activities;
+    3. liaise with the Industry Officer with the organisation of industry events;
+    4. provide a comprehensive handover, including a detailed operational report, at the end of term for the next position holder; and
+    5. perform other duties, as the committee may resolve.
 
 10.  The duties of the General Representative shall be to perform such duties as the committee may resolve.
 
