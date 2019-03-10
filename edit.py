@@ -685,56 +685,176 @@ Approved by the C&S Executive on 30 August, 2018
 
 """
 
-def roman_to_int(roman, values={'M': 1000, 'D': 500, 'C': 100, 'L': 50, 
-								'X': 10, 'V': 5, 'I': 1}):
-	#https://codereview.stackexchange.com/a/68301
-	"""Convert from Roman numerals to an integer."""
-	if 'I' == roman:
-		return 1
-	if 'V' == roman:
-		return 5
-	numbers = []
-	for char in roman:
-		numbers.append(values[char]) 
-	total = 0
-	for num1, num2 in zip(numbers, numbers[1:]):
-		if num1 >= num2:
-			total += num1
-		else:
-			total -= num1
-	return total + num2
+#def roman_to_int(roman, values={'M': 1000, 'D': 500, 'C': 100, 'L': 50, 
+#								'X': 10, 'V': 5, 'I': 1}):
+#	#https://codereview.stackexchange.com/a/68301
+#	"""Convert from Roman numerals to an integer."""
+#	if 'I' == roman:
+#		return 1
+#	if 'V' == roman:
+#		return 5
+#	numbers = []
+#	for char in roman:
+#		numbers.append(values[char]) 
+#	total = 0
+#	for num1, num2 in zip(numbers, numbers[1:]):
+#		if num1 >= num2:
+#			total += num1
+#		else:
+#			total -= num1
+#	return total + num2
+#
+#
+#y = x.splitlines()
+#y = [i for i in y if i]
+#
+#for i in range(len(y)):
+#	line = y[i]
+#	try:
+#		if '(' == line[0]:
+#			index = line.index(')')
+#			n = line[1:index]
+#			if not n.isdigit():
+#				if ('i' in n) or ('i' == n) or ('v' == n):
+#					n = '\t\t{}'.format(roman_to_int(n.upper()))
+#				else:
+#					n = '\t{}'.format(ord(n)-96)
+#			sen = line[index+1:]
+#			y[i] = '{}. {}'.format(n, sen.strip())
+#		elif 'PART' == line[:4]:
+#			y[i] = '# {}'.format(line)
+#		elif 'Division' == line[:8]:
+#			y[i] = '## {}'.format(line)
+#		else:
+#			index = line.index(' ')
+#			try:
+#				n = int(line[:index])
+#				sen = line[index+1:]
+#			except:
+#				continue
+#			y[i] = '### {}. {}'.format(n, sen.strip())
+#	except Exception as e:
+##		print('shitttttt ' + line)
+#		pass
+##print()
+#print('\n'.join(y))
 
+
+x = """PART 1 — PRELIMINARY	1
+1	Name	1
+2	Purpose	1
+3	Interpretation	1
+4	Definitions	1
+PART 2 — POWERS OF THE CLUB	2
+5	Powers of the Club	2
+6	Not for profit status	2
+PART 3 — MEMBERS, DISCIPLINARY PROCEDURES AND GRIEVANCES	3
+DIVISION 1 — MEMBERSHIP	3
+7	Minimum number of members	3
+8	Who is eligible to be a member	3
+9	Duration of membership	3
+10	Rejection of membership	3
+11	Membership Fee	3
+12	Ordinary Membership	4
+13	General rights of members	4
+14	Associate membership	4
+15	Honorary Life Membership	4
+16	Rights not transferable	4
+17	Ceasing membership	4
+18	Resigning as a member	5
+19	Register of members	5
+DIVISION 2 — DISCIPLINARY ACTION	5
+20	Grounds for taking disciplinary action	5
+21	Disciplinary subcommittee	5
+22	Notice to member	6
+23	Decision of subcommittee	6
+24	Appeal rights	7
+25	Conduct of disciplinary appeal meeting	7
+DIVISION 3 — GRIEVANCE PROCEDURE	8
+26	Application	8
+27	Parties must attempt to resolve the dispute	9
+28	Appointment of mediator	9
+29	Mediation process	9
+30	Failure to resolve dispute by mediation	9
+PART 4 — GENERAL MEETINGS OF THE CLUB	10
+31	Chairperson	10
+32	Annual general meetings	10
+32A	Ordinary general meetings	10
+33	Extraordinary general meetings	10
+34	Extraordinary general meeting held at request of members	11
+35	Notice of general meetings	11
+36	Proxies	12
+37	Use of technology	12
+38	Quorum at general meetings	12
+39	Adjournment of general meeting	13
+40	Voting at general meeting	13
+41	Determining whether resolution carried	13
+42	Minutes of general meeting	14
+PART 5 — COMMITTEE	14
+DIVISION 1 — POWERS OF COMMITTEE	14
+43	Role and powers	14
+44	Delegation	15
+DIVISION 2 — COMPOSITION OF COMMITTEE AND DUTIES OF MEMBERS	15
+45	Composition of Committee	15
+46	General Duties	15
+47	Duties of committee members	16
+48	Ancillary Members	18
+DIVISION 3 — ELECTION OF COMMITTEE MEMBERS AND TENURE OF OFFICE	18
+49	Who is eligible to be a Committee member	18
+50	Returning Officer	19
+51	Positions to be declared vacant	19
+52	Nominations	19
+53	Election of committee members	19
+54	Election Procedure	20
+55	Term of office	21
+56	Vacation of office	21
+57	Removal from office	21
+58	Co-option	22
+DIVISION 4 — MEETINGS OF COMMITTEE	22
+59	Chairperson	22
+60	Meetings of Committee	22
+61	Notice of meetings	22
+62	Urgent meetings	22
+63	Procedure and order of business	23
+64	Use of technology	23
+65	Quorum	23
+66	Voting	23
+67	Conflict of interest	24
+68	Minutes of meeting	24
+69	Leave of absence	24
+PART 6 — FINANCIAL MATTERS	24
+70	Source of funds	24
+71	Management of funds	24
+72	Financial records	25
+73	Financial statements	25
+PART 7 — GENERAL MATTERS	25
+74	Registered address	25
+75	Notice requirements	25
+76	Custody and inspection of books and records	26
+77	Assets	26
+78	Patron	26
+79	Schedules	26
+80	Amendment of Constitution	27
+"""
 
 y = x.splitlines()
 y = [i for i in y if i]
 
 for i in range(len(y)):
 	line = y[i]
-	try:
-		if '(' == line[0]:
-			index = line.index(')')
-			n = line[1:index]
-			if not n.isdigit():
-				if ('i' in n) or ('i' == n) or ('v' == n):
-					n = '\t\t{}'.format(roman_to_int(n.upper()))
-				else:
-					n = '\t{}'.format(ord(n)-96)
-			sen = line[index+1:]
-			y[i] = '{}. {}'.format(n, sen.strip())
-		elif 'PART' == line[:4]:
-			y[i] = '# {}'.format(line)
-		elif 'Division' == line[:8]:
-			y[i] = '## {}'.format(line)
-		else:
-			index = line.index(' ')
-			try:
-				n = int(line[:index])
-				sen = line[index+1:]
-			except:
-				continue
-			y[i] = '### {}. {}'.format(n, sen.strip())
-	except Exception as e:
-#		print('shitttttt ' + line)
-		pass
-#print()
-print('\n'.join(y))
+	if 'PART' == line[:4]:
+		sen = line.split('\t')[0]
+		sen = '[{}](#{})'.format(sen, sen.lower().replace(' ', '-'))
+		y[i] = sen
+	elif 'DIVISION' == line[:8]:
+		sen = line.split('\t')[0]
+		sen = '[{}](#{})'.format(sen, sen.lower().replace(' ', '-'))
+		y[i] = '    - ' + sen
+	else:
+		n, sen, _ = line.split('\t')
+		sen = '{}. {}'.format(n, sen)
+		sen = '[{}](#{})'.format(sen, sen.lower().replace(' ', '-'))
+		y[i] = '        - ' + sen
+		
+print('\n'.join(y))	
+		
