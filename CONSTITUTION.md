@@ -1,5 +1,8 @@
 # Faculty of Information Technology Society
 
+![wired logo](./signature-logo.png)
+
+
 Table of contents
 =================
 
