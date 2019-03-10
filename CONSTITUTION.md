@@ -751,15 +751,11 @@ relevant documents means the records and other documents, however compiled, reco
 6. A list of schedules, including the adopting or amending body and date that the schedule was adopted or amended, shall be noted in the appendix of this constitution.
 ### 80. Amendment of Constitution
 This constitution may be amended if not less than two thirds of the ordinary members present (either in person or by proxy) at a general meeting vote in favour of the proposed changes, provided that—
-    1. the C&S Executive has first approved the sought amendment(s); and
-    2. 14 days notice of the proposed amendment is served on all Club members.
-???????????????
-APPENDIX
-List of Schedules
-List of Honorary Life Members
-Faculty of Information Technology Society		Constitution
-Adopted by Faculty of Information Technology Society on xx Month, 2018	iii
-Approved by the C&S Executive on 30 August, 2018
-Faculty of Information Technology Society		Constitution
-Adopted by Faculty of Information Technology Society on xx Month, 2018	Page iv
+1. the C&S Executive has first approved the sought amendment(s); and
+2. 14 days notice of the proposed amendment is served on all Club members.
+    
+
+
+Adopted by Faculty of Information Technology Society on xx Month, 2018
+
 Approved by the C&S Executive on 30 August, 2018
