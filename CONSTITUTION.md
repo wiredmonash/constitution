@@ -16,8 +16,8 @@ Table of contents
     * [6. Not for profit status](#6-not-for-profit-status)
 * [PART 3  — MEMBERS, DISCIPLINARY PROCEDURES AND GRIEVANCES](#part-3---members-disciplinary-procedures-and-grievances)
     * [Division 1  — Membership](#division-1---membership)
-        - [7. Minimum number of members](#7-minimum-number-of-members)
-        - [8. Who is eligible to be a member](#8-who-is-eligible-to-be-a-member)
+        * [7. Minimum number of members](#7-minimum-number-of-members)
+        * [8. Who is eligible to be a member](#8-who-is-eligible-to-be-a-member)
         * [9. Duration of membership](#9-duration-of-membership)
         * [10. Rejection of membership](#10-rejection-of-membership)
         * [11. Membership Fee](#11-membership-fee)
@@ -45,6 +45,7 @@ Table of contents
 * [PART 4  — GENERAL MEETINGS OF THE CLUB](#part-4---general-meetings-of-the-club)
     * [31. Chairperson](#31-chairperson)
     * [32. Annual general meetings](#32-annual-general-meetings)
+    * [32A. Ordinary general meetings](#32a-ordinary-general-meetings)
     * [33. Extraordinary general meetings](#33-extraordinary-general-meetings)
     * [34. Extraordinary general meeting held at request of members](#34-extraordinary-general-meeting-held-at-request-of-members)
     * [35. Notice of general meetings](#35-notice-of-general-meetings)
@@ -100,7 +101,6 @@ Table of contents
     * [78. Patron](#78-patron)
     * [79. Schedules](#79-schedules)
     * [80. Amendment of Constitution](#80-amendment-of-constitution)
-
 
 # PART 1  — PRELIMINARY
 ### 1. Name
@@ -274,7 +274,7 @@ before the disciplinary meeting is held.
     1. If a quorum is not present within 20 minutes after the notified commencement time of a disciplinary appeal meeting—
         1. the disciplinary appeal meeting must be adjourned to an academic day no fewer than 5 and at most 10 academic days after the adjournment; and
         2. notice of the date, time and place to which the meeting is adjourned must be confirmed by notice given to the person appealing the decision of the disciplinary subcommittee, C&S Executive and to each ordinary member of the Club who is entitled to vote as soon as practicable after the meeting; and—
-    2. If a quorum is not present within 20 minutes after the time to which a disciplinary appeal meeting has been adjourned under subrule (2)(i), the ordinary members present at the meeting (if not fewer than 10) may proceed with the business of the meeting as if a quorum were present.
+    2. If a quorum is not present within 20 minutes after the time to which a disciplinary appeal meeting has been adjourned under subrule (2), the ordinary members present at the meeting (if not fewer than 10) may proceed with the business of the meeting as if a quorum were present.
 3. At a disciplinary appeal meeting—
     1. no business other than the question of the appeal may be conducted;
     2. an ordinary member—
@@ -331,7 +331,7 @@ If the mediation process does not resolve the dispute, the C&S Executive may, on
     3. to elect the members of the Committee.
 4. The annual election for all committee positions shall be held at the annual general meeting, unless otherwise approved by the C&S Executive.
 5. The annual general meeting may also conduct any other business of which notice has been given in accordance with this constitution.
-32A Ordinary general meetings
+### 32A Ordinary general meetings
 1. There shall be one ordinary general meeting each year, to be held during the first semester.
 2. The Committee may determine the date, time and place of the ordinary general meeting, subject to rule 35(1).
 3. The usual business of an ordinary general meeting is as follows—
@@ -401,7 +401,7 @@ Note: If a meeting convened at the request of members is dissolved under this su
 4. Notice of the date, time and place to which the meeting is adjourned must be confirmed by notice given to all members as soon as practicable after the meeting, unless the meeting is adjourned for 14 days or more, in which case notice of the meeting must be given in accordance with rule 35.
 ### 40. Voting at general meeting
 1. On any question arising at a general meeting—
-    1. subject to subrule (3), each ordinary member who is entitled to vote, excluding than the Chairperson, has one vote; and
+    1. subject to subrule (3), each ordinary member who is entitled to vote, excluding the Chairperson, has one vote; and
     2. ordinary members may vote personally or by proxy; and
     3. unless otherwise specified in this constitution, the question must be decided on a majority of votes.
 Example: A change to this constitution requires no less than two thirds of ordinary members present at a general meeting voting in favour of the proposed changes. 
@@ -443,7 +443,7 @@ and an entry to that effect in the minutes of the meeting is conclusive proof of
 3. The Committee may, in writing, revoke a delegation wholly or in part.
 ## Division 2  — Composition of Committee and duties of members
 ### 45. Composition of Committee
-1. The Committee shall consist of 13 committee members.
+1. The Committee shall consist of 17 committee members.
 2. The members of the Committee are—
     1. a President; and
     2. a Vice President; and
@@ -452,8 +452,11 @@ and an entry to that effect in the minutes of the meeting is conclusive proof of
     5. an Industry Officer; and
     6. a Marketing Officer; and
     7. an Education Officer; and
-    8. 3 Activities Officers; and
-    9. 3 General Representatives elected under rule 53.
+    8. a Volunteers Lead; and
+    9. a Graduate Representative; and
+    10. 2 First Year Representatives; and
+    11. 3 Activities Officers; and
+    12. 3 General Representatives elected under rule 53.
 ### 46. General Duties
 1. As soon as practicable after being elected or co-opted to the Committee, each committee member must become familiar with this constitution and the C&S Constitution and Regulations.
 2. As soon as practicable after being elected or co-opted to the Committee, the President, Vice President, Secretary and Treasurer must complete training as prescribed by the C&S Executive and update their contact details with Clubs & Societies via the appropriate form.
@@ -530,13 +533,34 @@ so as to gain an advantage for themselves or any other person or to cause detrim
         1. attend committee meetings and general meetings;
         2. liaise with the Faculty of IT and other entities as appropriate to ensure adequate representation of student concerns and feedback; and
         3. perform such duties as the Committee may resolve.
-8. Activities Officer
+8. Volunteers Lead
+    1. The duties of the Volunteers Lead shall be to—
+        1. attend committee meetings and general Meetings;
+        2. liaise with volunteers;
+        3. co-ordinate events with volunteers;
+        4. train volunteers; and
+        5. perform such duties as the Committee may resolve.
+9. Graduate Representative
+    1. The duties of the Graduate Representative shall be to—
+        1. attend committee meetings and general Meetings;
+        2. communicate graduate opportunities with members;
+        3. help organise graduate events;
+        4. be an ambassador for graduate students; and
+        5. perform such duties as the Committee may resolve.
+10. First Year Representative
+    1. The duties of the First Year Representative shall be to—
+        1. attend committee meetings and general Meetings;
+        2. communicate social and introductory opportunities for first year students;
+        3. help organise social events;
+        4. be an ambassador for first year students; and
+        5. perform such duties as the Committee may resolve.
+11. Activities Officer
     1. The duties of the Activities Officer shall be to—
         1. attend committee meetings and general meetings;
         2. organise and implement club events and activities;
         3. liaise with the Industry Officer and assist with the organisation of industry events; and
         4. perform such duties as the Committee may resolve.
-9. General Representative
+12. General Representative
     1. The duties of the General Representative shall be to—
         1. attend committee meetings and general meetings; and
         2. perform such duties as the Committee may resolve.
@@ -549,12 +573,15 @@ Example: The Committee may resolve to appoint a Webmaster to manage the Club web
 3. Ancillary members have the right to attend and speak at committee meetings and shall be bound by rule 46.
 ## Division 3  — Election of Committee members and tenure of office
 ### 49. Who is eligible to be a Committee member
-A member is eligible to be elected or appointed as a committee member if the member—
+1. A member is eligible to be elected or appointed as a committee member if the member—
     1. is an ordinary member entitled to vote under rule 12(2), and
     2. is a Clayton student, and
     3. is undertaking at least one unit of study at a Victorian campus of the University, and
     4. has not had their membership rights suspended; and
     5. is 18 years or older on the date they would take office.
+2. In addition to subrule (1) above—
+    1. a candidate for Graduate Representative must be enrolled in their penultimate or final year of their course; and
+    2. a candidate for First Year Representative must be enrolled in the first year of their course.
 ### 50. Returning Officer
 1. The Returning Officer shall be appointed by the Committee at least 14 days prior to the date of the General Meeting at which an election is to be held
 2. The Secretary shall be appointed the Returning Officer unless the Committee resolves otherwise, or the Secretary self disqualifies.
@@ -584,13 +611,16 @@ Note: Where quorum is not present at the annual general meeting adjourned under 
         4. Secretary;
         5. Industry Officer;
         6. Marketing Officer;
-        7. Education Officer.
+        7. Education Officer;
+        8. Volunteers Lead;
+        9. Graduate Representative;
     2. If only one member is nominated for the position, the Returning Officer of the meeting must declare the member elected to the position.
     3. If more than one member is nominated, a ballot must be held in accordance with rule 54.
 2. Elections for positions where there are multiple office holders.
     1. At the annual general meeting, separate elections must be held for each of the following positions—
         1. Activities Officer(s); and
-        2. General Representative(s).
+        2. First Year Representative(s); and
+        3. General Representative(s).
     2. If the number of members nominated for the position of ordinary committee member is less than or equal to the number to be elected, the Returning Officer of the meeting must declare each of those members to be elected to the position.
     3. If the number of members nominated exceeds the number to be elected, a secret ballot must be held in accordance with rule 54.
 3. The positions shall be elected in the order that they are listed in rule 45(2).
@@ -756,9 +786,8 @@ relevant documents means the records and other documents, however compiled, reco
 This constitution may be amended if not less than two thirds of the ordinary members present (either in person or by proxy) at a general meeting vote in favour of the proposed changes, provided that—
 1. the C&S Executive has first approved the sought amendment(s); and
 2. 14 days notice of the proposed amendment is served on all Club members.
-    
 
 
-Adopted by Faculty of Information Technology Society on xx Month, 2018
 
-Approved by the C&S Executive on 30 August, 2018
+Adopted by Faculty of Information Technology Society on 28 March, 2019
+Approved by the C&S Executive on 21 March, 2019

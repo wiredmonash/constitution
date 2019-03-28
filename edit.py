@@ -72,7 +72,7 @@ def process_content(content):
 					continue
 				content[i] = '### {}. {}'.format(n, sen.strip())
 		except Exception as e:
-			logs.append(line)
+			logs.append('{}. {}'.format(i, line))
 	return ('\n'.join(content), logs)
 
 
@@ -97,7 +97,7 @@ def process_toc(toc):
 				sen = '[{}](#{})'.format(sen, sen.lower().replace(' ', '-'))
 				toc[i] = '        - ' + sen
 	except Exception as e:
-		logs.append(line)
+		logs.append('{}. {}'.format(i, line))
 
 	return ('\n'.join(toc), logs)
 
@@ -116,7 +116,9 @@ def main():
 		(o, l) = process_toc(read(args.i.name))
 		if l:
 			logs += ['couldn\'t process these lines while processing table of contents'] + l
-		output += o
+			
+		header = '# Faculty of Information Technology Society\n\n![wired logo](./signature-logo.png)\n\n\nTable of contents\n=================\n\n'
+		output += header + o
 
 	if args.c:
 		(o, l) = process_content(read(args.c.name))
