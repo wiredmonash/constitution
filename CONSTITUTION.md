@@ -449,14 +449,7 @@ and an entry to that effect in the minutes of the meeting is conclusive proof of
     2. a Vice President; and
     3. a Treasurer; and
     4. a Secretary; and
-    5. an Industry Officer; and
-    6. a Marketing Officer; and
-    7. an Education Officer; and
-    8. a Volunteers Lead; and
-    9. a Graduate Representative; and
-    10. 2 First Year Representatives; and
-    11. 3 Activities Officers; and
-    12. 3 General Representatives elected under rule 53.
+    5. 4 General Representatives elected under rule 53.
 ### 46. General Duties
 1. As soon as practicable after being elected or co-opted to the Committee, each committee member must become familiar with this constitution and the C&S Constitution and Regulations.
 2. As soon as practicable after being elected or co-opted to the Committee, the President, Vice President, Secretary and Treasurer must complete training as prescribed by the C&S Executive and update their contact details with Clubs & Societies via the appropriate form.
@@ -515,55 +508,12 @@ so as to gain an advantage for themselves or any other person or to cause detrim
         5. regularly check the Club’s mail box and electronic mail account, supplied by the Clubs & Societies Council, for incoming correspondence;
         6. ensure that inwards and outwards correspondence for the Club is handled correctly and in a timely manner; and
         7. submit an annual report to the AGM.
-5. Industry Officer
-    1. The duties of the Industry Officer shall be to—
-        1. attend committee meetings and general meetings;
-        2. organise sponsorship for the club and events using C&S sponsorship agreement templates, and ensure all sponsorship activities are met;
-        3. connect the club and students with the IT industry and professional bodies;
-        4. liaise with the Activities Officer, and other relevant committee members with the organisation of industry-related events; and
-        5. perform such duties as the Committee may resolve.
-6. Marketing Officer
-    1. The duties of the Marketing Officer shall be to—
-        1. attend committee meetings and general meetings;
-        2. design and manage marketing and promotional material for the club’s events and activities;
-        3. manage the social media accounts of the club; and
-        4. perform such duties as the Committee may resolve.
-7. Education Officer
-    1. The duties of the Education Officer shall be to—
-        1. attend committee meetings and general meetings;
-        2. liaise with the Faculty of IT and other entities as appropriate to ensure adequate representation of student concerns and feedback; and
-        3. perform such duties as the Committee may resolve.
-8. Volunteers Lead
-    1. The duties of the Volunteers Lead shall be to—
-        1. attend committee meetings and general Meetings;
-        2. liaise with volunteers;
-        3. co-ordinate events with volunteers;
-        4. train volunteers; and
-        5. perform such duties as the Committee may resolve.
-9. Graduate Representative
-    1. The duties of the Graduate Representative shall be to—
-        1. attend committee meetings and general Meetings;
-        2. communicate graduate opportunities with members;
-        3. help organise graduate events;
-        4. be an ambassador for graduate students; and
-        5. perform such duties as the Committee may resolve.
-10. First Year Representative
-    1. The duties of the First Year Representative shall be to—
-        1. attend committee meetings and general Meetings;
-        2. communicate social and introductory opportunities for first year students;
-        3. help organise social events;
-        4. be an ambassador for first year students; and
-        5. perform such duties as the Committee may resolve.
-11. Activities Officer
-    1. The duties of the Activities Officer shall be to—
-        1. attend committee meetings and general meetings;
-        2. organise and implement club events and activities;
-        3. liaise with the Industry Officer and assist with the organisation of industry events; and
-        4. perform such duties as the Committee may resolve.
-12. General Representative
+5. General Representative
     1. The duties of the General Representative shall be to—
         1. attend committee meetings and general meetings; and
         2. perform such duties as the Committee may resolve.
+        
+        
 ### 48. Ancillary Members
 1. The Club or the Committee may from time to time create additional positions to assist the Committee with their duties, that—
     1. can be held by ordinary members and associate members; and
@@ -609,18 +559,12 @@ Note: Where quorum is not present at the annual general meeting adjourned under 
         2. Vice-President;
         3. Treasurer;
         4. Secretary;
-        5. Industry Officer;
-        6. Marketing Officer;
-        7. Education Officer;
-        8. Volunteers Lead;
-        9. Graduate Representative;
+        5. Graduate Representative;
     2. If only one member is nominated for the position, the Returning Officer of the meeting must declare the member elected to the position.
     3. If more than one member is nominated, a ballot must be held in accordance with rule 54.
 2. Elections for positions where there are multiple office holders.
     1. At the annual general meeting, separate elections must be held for each of the following positions—
-        1. Activities Officer(s); and
-        2. First Year Representative(s); and
-        3. General Representative(s).
+        1. General Representative(s).
     2. If the number of members nominated for the position of ordinary committee member is less than or equal to the number to be elected, the Returning Officer of the meeting must declare each of those members to be elected to the position.
     3. If the number of members nominated exceeds the number to be elected, a secret ballot must be held in accordance with rule 54.
 3. The positions shall be elected in the order that they are listed in rule 45(2).
