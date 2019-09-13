@@ -510,9 +510,9 @@ so as to gain an advantage for themselves or any other person or to cause detrim
         7. submit an annual report to the AGM.
 5. General Representative
     1. The duties of the General Representative shall be to—
-        1. attend committee meetings and general meetings; and
-        2. perform such duties as the Committee may resolve.
-        
+        1. attend committee meetings and general meetings; 
+        2. perform such duties as the Committee may resolve; and
+        3. manage Ancillary Members appointed per rule 48
         
 ### 48. Ancillary Members
 1. The Club or the Committee may from time to time create additional positions to assist the Committee with their duties, that—
@@ -529,9 +529,6 @@ Example: The Committee may resolve to appoint a Webmaster to manage the Club web
     3. is undertaking at least one unit of study at a Victorian campus of the University, and
     4. has not had their membership rights suspended; and
     5. is 18 years or older on the date they would take office.
-2. In addition to subrule (1) above—
-    1. a candidate for Graduate Representative must be enrolled in their penultimate or final year of their course; and
-    2. a candidate for First Year Representative must be enrolled in the first year of their course.
 ### 50. Returning Officer
 1. The Returning Officer shall be appointed by the Committee at least 14 days prior to the date of the General Meeting at which an election is to be held
 2. The Secretary shall be appointed the Returning Officer unless the Committee resolves otherwise, or the Secretary self disqualifies.
@@ -559,7 +556,6 @@ Note: Where quorum is not present at the annual general meeting adjourned under 
         2. Vice-President;
         3. Treasurer;
         4. Secretary;
-        5. Graduate Representative;
     2. If only one member is nominated for the position, the Returning Officer of the meeting must declare the member elected to the position.
     3. If more than one member is nominated, a ballot must be held in accordance with rule 54.
 2. Elections for positions where there are multiple office holders.
@@ -733,5 +729,5 @@ This constitution may be amended if not less than two thirds of the ordinary mem
 
 
 
-Adopted by Faculty of Information Technology Society on 28 March, 2019
-Approved by the C&S Executive on 21 March, 2019
+Adopted by Faculty of Information Technology Society on 
+Approved by the C&S Executive on 
